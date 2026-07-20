@@ -1,0 +1,5 @@
+Hexaware AI Talent Quest evaluates technical architect roles.
+The core interview focus is multi-agent systems and real-time retrieval metrics.
+Engineering delivery hubs are located in India, US, and Europe.
+The hybrid work policy requires developers to coordinate schedules with their managers.
+Data pipelines must ingest log metrics via a sliding window queue architecture.

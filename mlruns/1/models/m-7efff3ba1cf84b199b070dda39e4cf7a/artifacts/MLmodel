@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/lochan.hiraman/OneDrive - Accenture/Desktop/AI/Agentic_Support_Ticket_Solution/agentic_support_ticket_classification/mlruns/1/models/m-7efff3ba1cf84b199b070dda39e4cf7a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-7efff3ba1cf84b199b070dda39e4cf7a
+model_size_bytes: 1812899
+model_uuid: m-7efff3ba1cf84b199b070dda39e4cf7a
+prompts: null
+run_id: e76eacbc414f4215a613c40843788b00
+utc_time_created: '2026-07-20 13:53:30.592207'
